@@ -1,0 +1,5 @@
+open ftp://ftpuser:ftpuser@164.92.200.154
+lcd C:\Users\USER\Desktop\ftp
+cd /home/ftpuser/Data
+get *
+exit
